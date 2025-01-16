@@ -39,7 +39,7 @@ This Terraform configuration establishes a hybrid cloud environment between AWS 
 
 ## DNS Resolution Flow
 
-```
+```text
 Azure                                      AWS
 ┌──────────────────────────────┐          ┌──────────────────────────────┐
 │                              │          │                              │
